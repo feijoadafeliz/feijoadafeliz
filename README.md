@@ -1,16 +1,15 @@
-### Hi there 👋
+##  🍜​🍝​~BEM VINDO AO PERFIL DA FEIJOADA FELIZ~ :)🍜​🍝​
 
-<!--
-**feijoadafeliz/feijoadafeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MEU NOME É FEIJOADA!
 
-Here are some ideas to get you started:
+-Estou Estudando No [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me Desenvolvendo na Linguagem Javascript
+
+-Eu Utilizo Esse Espaço Para Minha Organização e Compartilhamento De Projetos Desenvolvidos! :)
+
+### SE VOCÊ QUISER ENTRAR EM CONTATO COMIGO! 😃
+
+00001084220830sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/IP1cFAOQQWsAAAAC/anime-food.gif)
